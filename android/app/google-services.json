@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "325642671801",
+    "project_id": "bookie-9b246",
+    "storage_bucket": "bookie-9b246.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325642671801:android:41bb76871cde3e3ab8ad68",
+        "android_client_info": {
+          "package_name": "com.example.bookie_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU2uVFyZks68-n0m_MNf3f5d2sQDFgLUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325642671801:android:569c91366baec12ab8ad68",
+        "android_client_info": {
+          "package_name": "com.example.bookiev2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU2uVFyZks68-n0m_MNf3f5d2sQDFgLUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
